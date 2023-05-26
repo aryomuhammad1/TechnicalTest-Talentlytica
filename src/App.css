@@ -34,10 +34,10 @@ body {
   display: flex;
   align-items: center;
   gap: 24px;
+}
 
-  .select {
-    padding: 2px;
-  }
+.select-container .select {
+  padding: 2px;
 }
 
 .btnSave {
